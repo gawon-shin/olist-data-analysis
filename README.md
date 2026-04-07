@@ -27,7 +27,9 @@
 **분석 방법** : SQL로 월별 주문 수, 매출, 평균 객단가(AOV)를 집계
 
 <br>
+
 ![Q1 대시보드](images/q1_dashboard.png)
+
 <br>
 
 **결과**
@@ -49,7 +51,9 @@
 **분석 방법** : SQL로 상품·카테고리별 매출 및 비중 산출
 
 <br>
+
 ![Q2 대시보드](images/q2_dashboard.png)
+
 <br>
 
 **결과**
@@ -74,7 +78,9 @@
 - 배송 지연 비율 8.1%
 
 <br>
+
 ![Q3 대시보드](images/q3_dashboard.png)
+
 <br>
 
 **해석**
@@ -90,7 +96,9 @@
 **분석 방법** : SQL로 재구매 고객 및 매출 집계, Pandas로 재구매 기간 구간화 (당일 재구매 제외)
 
 <br>
+
 ![Q4 대시보드](images/q4_dashboard.png)
+
 <br>
 
 **결과**
