@@ -26,7 +26,9 @@
 
 **분석 방법** : SQL로 월별 주문 수, 매출, 평균 객단가(AOV)를 집계
 
-<img width="552" height="410" alt="image" src="https://github.com/user-attachments/assets/7b5e78bb-9687-4ba8-a4ab-fdbb7dc4d1ad" />
+<br>
+![Q1 대시보드](images/q1_dashboard.png)
+<br>
 
 **결과**
 - 2017년 하반기부터 주문 수, 매출 급성장
@@ -46,7 +48,9 @@
 
 **분석 방법** : SQL로 상품·카테고리별 매출 및 비중 산출
 
+<br>
 ![Q2 대시보드](images/q2_dashboard.png)
+<br>
 
 **결과**
 - 상위 10개 상품 매출 비중 3.35%
@@ -69,7 +73,9 @@
 - 6-10일(34.4%), 11-20일(34.7%) 구간이 대부분
 - 배송 지연 비율 8.1%
 
+<br>
 ![Q3 대시보드](images/q3_dashboard.png)
+<br>
 
 **해석**
 - 표준 배송 중심 구조 (초고속·초지연 비중 낮음)
@@ -83,7 +89,9 @@
 
 **분석 방법** : SQL로 재구매 고객 및 매출 집계, Pandas로 재구매 기간 구간화 (당일 재구매 제외)
 
+<br>
 ![Q4 대시보드](images/q4_dashboard.png)
+<br>
 
 **결과**
 - 재구매 고객 비율 2.2%, 매출 기여 4.1%
